@@ -5,7 +5,7 @@ I'm moving bits and electrons to speed up transition to 100% Renewable Energies 
 ## Technologies & Tools
 
 - 🪁 [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr)
-- 📟 KiCad
+- 🤖 KiCad
 - 🦀 Rust
 
 ## Companies & Projects
@@ -18,4 +18,4 @@ I'm moving bits and electrons to speed up transition to 100% Renewable Energies 
 - 🔧 Diploma in Mechanical Engineering
 - 🚙 PhD in Optimization of Electric Vehicle Thermal Management
 - 🔋 Worked in Automotive Battery Development for several years
-- 🔌 Developed IoT-enabled Power Electronics for Energy Access
+- 🌞 Developed IoT-enabled Power Electronics for Energy Access
